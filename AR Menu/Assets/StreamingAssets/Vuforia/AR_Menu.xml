@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Gulab_Jamun" size="5.000000 6.987261" />
+    <ImageTarget name="Dal_Makhani" size="5.000000 7.056136" />
+    <ImageTarget name="Samosa" size="5.000000 6.923077" />
+  </Tracking>
+</QCARConfig>
