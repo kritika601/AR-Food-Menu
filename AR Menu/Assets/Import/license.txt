@@ -1,0 +1,11 @@
+Model Information:
+* title:	Day 226: Samosa
+* source:	https://sketchfab.com/3d-models/day-226-samosa-3b8eb0e93c244747b94b354f547cd975
+* author:	uttamg911 (https://sketchfab.com/uttamg911)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Day 226: Samosa" (https://sketchfab.com/3d-models/day-226-samosa-3b8eb0e93c244747b94b354f547cd975) by uttamg911 (https://sketchfab.com/uttamg911) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
