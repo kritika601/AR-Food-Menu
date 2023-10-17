@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4943,13 +4943,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Samosa
+  mTrackableName: Samosa1
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/AR_Menu.xml
-  mAspectRatio: 1.3846154
+  mAspectRatio: 1.4298599
   mImageTargetType: 0
   mWidth: 5
-  mHeight: 6.923077
+  mHeight: 7.149299
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -4986,7 +4986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 2005385638}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Samosa
+  mTargetName: Samosa1
   mDatasetName: Vuforia/AR_Menu.xml
   mCastedBehaviour: {fileID: 2005385638}
   mMeshFilter: {fileID: 0}
