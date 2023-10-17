@@ -804,13 +804,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Dal_Makhani
+  mTrackableName: Dal_Makhani1
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/AR_Menu.xml
-  mAspectRatio: 1.4112272
+  mAspectRatio: 1.43324
   mImageTargetType: 0
   mWidth: 5
-  mHeight: 7.056136
+  mHeight: 7.1662
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -847,7 +847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 245177098}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Dal_Makhani
+  mTargetName: Dal_Makhani1
   mDatasetName: Vuforia/AR_Menu.xml
   mCastedBehaviour: {fileID: 245177098}
   mMeshFilter: {fileID: 0}
@@ -4817,13 +4817,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Gulab_Jamun
+  mTrackableName: Gulab_Jamun1
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/AR_Menu.xml
-  mAspectRatio: 1.3974521
+  mAspectRatio: 1.4336917
   mImageTargetType: 0
   mWidth: 5
-  mHeight: 6.987261
+  mHeight: 7.168459
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -4860,7 +4860,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1840440294}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Gulab_Jamun
+  mTargetName: Gulab_Jamun1
   mDatasetName: Vuforia/AR_Menu.xml
   mCastedBehaviour: {fileID: 1840440294}
   mMeshFilter: {fileID: 0}
